@@ -9,6 +9,8 @@ import (
 	"sort"
 )
 
+// https://github.com/EvilSuperstars/go-cidrman
+
 // ipv4ToUInt32 converts an IPv4 address to an unsigned 32-bit integer.
 func ipv4ToUInt32(ip net.IP) uint32 {
 	return binary.BigEndian.Uint32(ip)
