@@ -66,3 +66,5 @@ github.com/phuslu/iploc v1.0.20260802 h1:gXcqydx8wLYZZGIX6nOS6hsmg3VVQxZTrFztaLo
 github.com/phuslu/iploc v1.0.20260802/go.mod h1:VZqAWoi2A80YPvfk1AizLGHavNIG9nhBC8d87D/SeVs=
 github.com/phuslu/iploc v1.0.20260815 h1:T0ZtqlBLrxrSYX69r/1wWZAyoPhDPC3rdijSzFjpdA8=
 github.com/phuslu/iploc v1.0.20260815/go.mod h1:VZqAWoi2A80YPvfk1AizLGHavNIG9nhBC8d87D/SeVs=
+github.com/phuslu/iploc v1.0.20260901 h1:wJcQocNs0i1mM+Bqo+JfjJlBaX2U2rCjitR+2FWdBv4=
+github.com/phuslu/iploc v1.0.20260901/go.mod h1:VZqAWoi2A80YPvfk1AizLGHavNIG9nhBC8d87D/SeVs=
